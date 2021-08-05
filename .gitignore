@@ -1,5 +1,8 @@
 seti-breakthrough-listen/*
 seti-breakthrough-listen.zip
+notebooks/*/tmp/*
+notebooks/*/output/*
+notebooks/*/fold*/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
