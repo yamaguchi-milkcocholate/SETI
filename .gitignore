@@ -3,6 +3,7 @@ seti-breakthrough-listen.zip
 notebooks/*/tmp/*
 notebooks/*/output/*
 notebooks/*/fold*/*
+!notebooks/*/output/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
