@@ -102,6 +102,9 @@ Pygments = "==2.9.0"
 PyWavelets = "==1.1.1"
 PyYAML = "==5.4.1"
 Send2Trash = "==1.7.1"
+cmaes = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 

@@ -4,6 +4,9 @@ notebooks/*/tmp/*
 notebooks/*/output/*
 notebooks/*/fold*/*
 !notebooks/*/output/*.csv
+notebooks/*.csv
+
+*.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
