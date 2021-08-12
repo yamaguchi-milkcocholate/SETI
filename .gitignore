@@ -5,6 +5,7 @@ notebooks/*/output/*
 notebooks/*/fold*/*
 !notebooks/*/output/*.csv
 notebooks/*.csv
+predictions/*
 
 *.DS_Store
 
