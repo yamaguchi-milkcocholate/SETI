@@ -15,6 +15,9 @@ if __name__ == "__main__":
         "nfnet_l0",
         "resnet18-18epoch",
         "resnext50-75epoch",
+        "efficientnetv2s_640",
+        "rexnet",
+        "tf_efficientnet_b1_ns"
     ]
 
     os.makedirs(outdir, exist_ok=True)
