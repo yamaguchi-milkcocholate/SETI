@@ -11,12 +11,8 @@ if __name__ == "__main__":
     expts = [
         "efficientnetb0_100epoch",
         "efficientnetv2s_100epoch",
-        "mobilenet100-100epoch",
-        "nfnet_l0",
-        "resnet18-18epoch",
-        "resnext50-75epoch",
         "efficientnetv2s_640",
-        "rexnet",
+        "efficientnetb0_640",
         "tf_efficientnet_b1_ns"
     ]
 
